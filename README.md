@@ -17,4 +17,10 @@ yarn install
 yarn run build
 yarn run server
 ```
+## Run the application in Local
 
+Just run :
+
+```
+yarn start
+```
